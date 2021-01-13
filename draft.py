@@ -6,3 +6,4 @@ with open('C:/Users/nky98/Documents/Python Project/gender_development_index.csv'
     for row in reader :
         print(row)
     
+    
